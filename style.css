@@ -1,0 +1,26 @@
+.h{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 40px rgb(0, 154, 87);
+}
+#i{
+    font-size: 15px;
+    color:rgb(0, 123, 8);
+}
+body{
+    background-size: cover;
+}
+.c{
+    width: 200px;
+    border-radius: 100px;
+}
+.f{
+    width: 170px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 100px rgb(128, 0, 255);
+}
